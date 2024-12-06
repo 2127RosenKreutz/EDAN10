@@ -39,7 +39,7 @@ public class MyTree {
       return true;
     }
     MyNode iter = root;
-
+//code in tree
     while(true) {
       if(iter.getValue() < node.getValue()) {
         if(iter.getRightChild() != null) {
