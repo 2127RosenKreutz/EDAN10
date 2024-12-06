@@ -19,6 +19,9 @@ public class MyNode {
   private MyNode right;
   private int value;
   private MyTree originTree;
+  //Add comment
+
+  private int sizeOfConnectedNodes;
 
   /**
    * Class constructor initializing this node's value.
@@ -27,6 +30,18 @@ public class MyNode {
    */
   public MyNode(int value) {
     this.value = value;
+  }
+
+  public int getSize() {
+    return sizeOfConnectedNodes;
+  }
+
+  public boolean setallSize(){
+    sizeOfConnectedNodes = father.getValue() + left.getValue( )+ right.getValue()
+    if(sizeOfConnectedNodes != 0){
+      return true;
+    }
+      return false;
   }
 
   /**
