@@ -36,6 +36,10 @@ public class MyNode {
     return value;
   }
 
+  public void addOneToValue() {
+    this.value += 1;
+  }
+
   /**
    * Sets the vlaue of this node.
    *
