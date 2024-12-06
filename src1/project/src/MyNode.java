@@ -34,6 +34,7 @@ public class MyNode {
    * @return The current value of this node.
    */
   public int getValue() {
+    return null;
     return value;
   }
 
