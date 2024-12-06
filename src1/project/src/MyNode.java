@@ -3,7 +3,7 @@ package tree;
 //Second comment
 //third comment
 /**
- * 
+ * Additional comments  here
  * Extra comments here
  * This is a node in a binary search tree. The node holds an integer value.
  *
@@ -18,7 +18,7 @@ public class MyNode {
 
   /**
    * Class constructor initializing this node's value.
-   * 
+   * Axel wrote a comment
    * @param value The value of this node.
    */
   public MyNode(int value) {
