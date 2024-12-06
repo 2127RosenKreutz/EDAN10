@@ -16,7 +16,7 @@ public class MyTree {
    */
   public MyTree() {
   }
-
+// Some more code here
   /**
    * Return a reference to the root in this tree.
    *
@@ -64,7 +64,7 @@ public class MyTree {
       }
     }
   }
-
+// Comment here as well
   /**
    * Calculate the number of nodes in this tree. Recursively calculate the
    * number of nodes in this search tree.
