@@ -4,6 +4,7 @@ package tree;
 //Second comment
 //third comment
 //Fourth comment
+//fifth commmentsss
 /**
  * Additional comments  here
  * Extra comments here
@@ -34,6 +35,7 @@ public class MyNode {
    * @return The current value of this node.
    */
   public int getValue() {
+    return null;
     return value;
   }
 
