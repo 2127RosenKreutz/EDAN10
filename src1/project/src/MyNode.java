@@ -18,7 +18,7 @@ public class MyNode {
   private MyNode left;
   private MyNode right;
   private int value;
-  private MyNode son;
+  private MyTree originTree;
 
   /**
    * Class constructor initializing this node's value.
