@@ -37,7 +37,7 @@ public class MyNode {
   }
 
   public boolean setallSize(){
-    sizeOfConnectedNodes = father.getValue() + left.getValue( )+ right.getValue()
+    sizeOfConnectedNodes = father.getValue() + left.getValue( )+ right.getValue();
     if(sizeOfConnectedNodes != 0){
       return true;
     }
