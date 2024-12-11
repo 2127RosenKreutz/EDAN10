@@ -4,6 +4,7 @@ package tree;
 
 import tree.MyNode;
 // Tree-comment
+//added comment
 /**
  * This is a binary search tree. The tree holds integer valued nodes.
  *
