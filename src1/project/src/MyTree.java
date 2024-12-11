@@ -11,6 +11,8 @@ import tree.MyNode;
  *
  * @author Torbjorn Ekman
  * @see MyNode
+ * 
+ * Ska göra rebase hjälp
  */
 public class MyTree {
   private MyNode root;
